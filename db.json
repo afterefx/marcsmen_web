@@ -1,30 +1,29 @@
-[
-    {
-        "id" : 1,
-        "name": "John Smith",
-        "username": "john",
-        "address" : {
-            "number": 7000,
-            "street" : "Broadway",
-            "city" : "Atlanta",
-            "state" : "GA",
-            "zip" : 90210
-        },
-        "phone" : "1-281-867-5309",
-        "part" : "bass"
-    },
-    {
-        "id" : 1,
-        "name": "Tim Duncan",
-        "username": "tim",
-        "address" : {
-            "number": 999,
-            "street" : "Martin Luther King Blvd",
-            "city" : "New York",
-            "state" : "NY",
-            "zip" : 12345
-        },
-        "phone" : "1-218-876-5390",
-        "part" : "tenor"
-    }
+[{
+		"id": 1,
+		"name": "John Smith",
+		"username": "john",
+		"address": {
+			"number": 7000,
+			"street": "Broadway",
+			"city": "Atlanta",
+			"state": "GA",
+			"zip": 90210
+		},
+		"phone": "1-281-867-5309",
+		"part": "bass"
+	},
+	{
+		"id": 1,
+		"name": "Tim Duncan",
+		"username": "tim",
+		"address": {
+			"number": 999,
+			"street": "Martin Luther King Blvd",
+			"city": "New York",
+			"state": "NY",
+			"zip": 12345
+		},
+		"phone": "1-218-876-5390",
+		"part": "tenor"
+	}
 ]
